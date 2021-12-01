@@ -14,3 +14,5 @@ for i in range(len(lst)):
 
 for i in range(num_of_station):
 	print(lst[i])
+	
+print("ban da hoan thanh bai tap")
